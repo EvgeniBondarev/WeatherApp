@@ -1,0 +1,32 @@
+[
+  {
+    "RegionType": 0,
+    "Name": "Срединный регион",
+    "Description": "Умеренный климат с характерными сезонными изменениями",
+    "MinAltitude": 0.0,
+    "MaxAltitude": 500.0,
+    "TypicalTemperatureRange": 25.0,
+    "TypicalHumidityRange": 50.0,
+    "TypicalWeatherConditions": ["Ясно", "Облачно", "Переменная облачность", "Дождь", "Снег"]
+  },
+  {
+    "RegionType": 1,
+    "Name": "Нижний регион",
+    "Description": "Прибрежный климат с повышенной влажностью и частыми осадками",
+    "MinAltitude": 0.0,
+    "MaxAltitude": 200.0,
+    "TypicalTemperatureRange": 20.0,
+    "TypicalHumidityRange": 60.0,
+    "TypicalWeatherConditions": ["Облачно", "Туман", "Дождь", "Снег", "Переменная облачность"]
+  },
+  {
+    "RegionType": 2,
+    "Name": "Верхний регион",
+    "Description": "Горный климат с пониженным давлением и сильными ветрами",
+    "MinAltitude": 500.0,
+    "MaxAltitude": 2000.0,
+    "TypicalTemperatureRange": 30.0,
+    "TypicalHumidityRange": 40.0,
+    "TypicalWeatherConditions": ["Ясно", "Переменная облачность", "Снег", "Сильный ветер", "Буря"]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "Location": "Москва",
+    "Month": "Январь",
+    "AverageTemperature": -8.5,
+    "AverageHumidity": 78.0,
+    "AveragePrecipitation": 42.0,
+    "AverageWindSpeed": 4.2,
+    "Region": "Middle"
+  },
+  {
+    "Id": 2,
+    "Location": "Москва",
+    "Month": "Февраль",
+    "AverageTemperature": -6.8,
+    "AverageHumidity": 75.0,
+    "AveragePrecipitation": 35.0,
+    "AverageWindSpeed": 4.5,
+    "Region": "Middle"
+  },
+  {
+    "Id": 3,
+    "Location": "Москва",
+    "Month": "Март",
+    "AverageTemperature": -1.2,
+    "AverageHumidity": 72.0,
+    "AveragePrecipitation": 28.0,
+    "AverageWindSpeed": 4.8,
+    "Region": "Middle"
+  },
+  {
+    "Id": 4,
+    "Location": "Санкт-Петербург",
+    "Month": "Январь",
+    "AverageTemperature": -5.2,
+    "AverageHumidity": 88.0,
+    "AveragePrecipitation": 38.0,
+    "AverageWindSpeed": 5.5,
+    "Region": "Lower"
+  },
+  {
+    "Id": 5,
+    "Location": "Санкт-Петербург",
+    "Month": "Февраль",
+    "AverageTemperature": -4.1,
+    "AverageHumidity": 85.0,
+    "AveragePrecipitation": 32.0,
+    "AverageWindSpeed": 5.8,
+    "Region": "Lower"
+  },
+  {
+    "Id": 6,
+    "Location": "Санкт-Петербург",
+    "Month": "Март",
+    "AverageTemperature": 0.8,
+    "AverageHumidity": 82.0,
+    "AveragePrecipitation": 35.0,
+    "AverageWindSpeed": 6.2,
+    "Region": "Lower"
+  },
+  {
+    "Id": 7,
+    "Location": "Екатеринбург",
+    "Month": "Январь",
+    "AverageTemperature": -15.8,
+    "AverageHumidity": 68.0,
+    "AveragePrecipitation": 25.0,
+    "AverageWindSpeed": 7.2,
+    "Region": "Upper"
+  },
+  {
+    "Id": 8,
+    "Location": "Екатеринбург",
+    "Month": "Февраль",
+    "AverageTemperature": -13.5,
+    "AverageHumidity": 65.0,
+    "AveragePrecipitation": 22.0,
+    "AverageWindSpeed": 7.8,
+    "Region": "Upper"
+  },
+  {
+    "Id": 9,
+    "Location": "Екатеринбург",
+    "Month": "Март",
+    "AverageTemperature": -6.2,
+    "AverageHumidity": 62.0,
+    "AveragePrecipitation": 28.0,
+    "AverageWindSpeed": 8.5,
+    "Region": "Upper"
+  }
+]
